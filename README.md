@@ -8,8 +8,8 @@
 
 ## Extensions
 
-- `shipping-faq`: A shipping FAQ extension for the checkout page.
+- `shipping-faq`: A shipping FAQ extension for the Thank You page.
 
 <div align="center">
-	<img src="./screenshots/shipping-faq-screenshot.jpg" alt="Shipping Faq - App Block" width="800">
+	<img src="./screenshots/shipping-faq-screenshot.jpg" alt="Shipping Faq - App Block" width="600">
 </div>
