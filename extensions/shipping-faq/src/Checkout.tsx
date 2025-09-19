@@ -16,7 +16,6 @@ const faqs = [
     title: 'When will my order ship?',
     description:
       'We ship Monday-Friday. Orders ship in 1-3 business days and arrive 2-5 days after shipping. For Rx and custom lens, orders may take up to 5 business days to process before shipping.',
-
     image:
       'https://cdn.shopify.com/s/files/1/0140/0012/8057/files/when_will_ship_icon_aaf1b059-e9d8-4453-a642-ad3170da0df6.png?v=1758229458',
   },
